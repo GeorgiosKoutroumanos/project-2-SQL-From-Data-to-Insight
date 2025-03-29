@@ -63,6 +63,10 @@ WHERE `AI Impact` IS NOT NULL;
 SELECT *
 FROM df1_df2_joined_cleaned;
 
+-- Checking the numbers of required skills
+SELECT Job_Title, COUNT(DISTINCT Required_Skills)
+FROM df1_df2_joined_cleaned
+GROUP BY Job_Title;
 
 
 
