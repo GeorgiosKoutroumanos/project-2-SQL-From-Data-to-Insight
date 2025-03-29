@@ -64,14 +64,3 @@ print(df_filtered.head())
 ##  License
 
 This project is open-source and free to use. Modify it as needed!
-
-##  Contact
-
-For questions or collaboration, reach out via:
-
-- **Email:** [[Email@example.com](mailto\:Email@example.com)]
-- **LinkedIn:** [Your LinkedIn Profile]
-
----
-
-
