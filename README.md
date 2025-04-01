@@ -1,3 +1,5 @@
+# https://prezi.com/p/edit/wollhku2-kbk/
+# https://trello.com/b/6qQQNvlO/mini-project-sql-gryffindor
 #  The Impact of AI on the IT Job Market
 
 ##  Project Overview
